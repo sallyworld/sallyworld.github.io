@@ -1,0 +1,6 @@
+build
+/node_modules
+@types
+.eslintrc.js
+gatsby-config.js
+babel.config.js

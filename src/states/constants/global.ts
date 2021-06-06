@@ -1,0 +1,5 @@
+const REDUCER = 'GLOBAL';
+
+export const SHOW_LOADER = `${REDUCER}/SHOW_LOADER`;
+export const HIDE_LOADER = `${REDUCER}/HIDE_LOADER`;
+export const SET_USER_INFO = `${REDUCER}/SET_USER_INFO`;

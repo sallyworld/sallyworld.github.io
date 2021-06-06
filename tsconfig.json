@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.extend.json",
+  "compilerOptions": {
+    "jsx": "react-jsx"
+  },
+  "files": ["./@types/fonts.d.ts"],
+  "include": [
+    "src"
+  ]
+}
