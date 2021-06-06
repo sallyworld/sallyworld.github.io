@@ -1,6 +1,7 @@
 const path = require('path');
 
 module.exports = {
+  pathPrefix: '/',
   plugins: [
     {
       resolve: 'gatsby-plugin-typescript',
